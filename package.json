@@ -1,0 +1,28 @@
+{
+  "name": "prova_cli",
+  "version": "1.0.0",
+  "description": "Prova di realizzazione di una CLI con Inquirer.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mceserani/Prova_CLI.git"
+  },
+  "keywords": [
+    "inquirer",
+    "CLI"
+  ],
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceserani/Prova_CLI/issues"
+  },
+  "homepage": "https://github.com/mceserani/Prova_CLI#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "sqlite3": "^5.1.4"
+  },
+  "type": "module"
+}
